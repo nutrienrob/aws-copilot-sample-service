@@ -1,0 +1,14 @@
+{
+  "name": "ecs_health_check_tester",
+  "version": "1.0.0",
+  "description": "This is a sample AWS Copilot sample app. You can use AWS Copilot to deploy this simple website to Amazon ECS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
